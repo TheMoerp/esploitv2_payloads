@@ -1,0 +1,9 @@
+Press:131+114
+PrintLine:https://www.youtube.com/watch?v=dQw4w9WgXcQ
+CustomDelay:1000
+Press:131+114
+PrintLine:https://www.youtube.com/watch?v=dQw4w9WgXcQ
+CustomDelay:1000
+Press:131+114
+PrintLine:https://www.youtube.com/watch?v=dQw4w9WgXcQ
+CustomDelay:1000
