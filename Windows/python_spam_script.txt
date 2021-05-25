@@ -1,4 +1,6 @@
-Press: 131+114
+Press:131+114
 PrintLine:python
-PrintLine:while 1: print("Hello world! ")
-PrintLine:
+CustomDelay:100
+Press:204
+PrintLine:while 1: print("Hello world! ", end='')
+Press:176
